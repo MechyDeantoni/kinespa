@@ -1,0 +1,189 @@
+body {
+    width: 100vw;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    font-family: 'Inria Sans', sans-serif; 
+}
+.menu {
+    color: white; 
+    font-size: 24px; 
+    font-family: 'Inria Sans'; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.menucontenedor {
+    width: 447px; 
+    height: 19.07px; 
+    padding-bottom: 0.08px; 
+    padding-left: 12px; 
+    left: 811px; 
+    top: 34.33px; 
+    position: absolute; 
+    justify-content: flex-end; 
+    align-items: flex-start; 
+    gap: 24px; 
+    display: inline-flex;
+}
+.menusup {
+    width: 300px; 
+    height: 18.12px; 
+    color: white; 
+    font-size: 16px; 
+    font-family: 'Inria Sans'; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.contenedordatosfooter {
+    width: 200px; 
+    height: 19px; 
+    color: white; 
+    font-size: 16px; 
+    font-family: 'Inria Sans'; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.logo {
+    width: 105px; 
+    height: 101px; 
+    left: 143px; 
+    top: 20px; 
+    position: absolute; 
+    mix-blend-mode: multiply;
+}
+.leyenda {
+    width: 1076px; 
+    left: 204px; 
+    top: 19px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 48px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.contenedorleyenda {
+    width: 1440px; 
+    height: 96px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: rgba(110.27, 100.99, 109.35, 0.43);
+}
+.imgspa {
+    width: 1440px; 
+    height: 620px;
+}
+.contenedorleyenda2 {
+    width: 1440px; 
+    height: 192px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: rgba(110.27, 100.99, 109.35, 0.43);
+}
+.leyenda2 {
+    width: 980px; 
+    height: 127.68px; 
+    left: 230px; 
+    top: 32.64px; 
+    position: absolute; 
+    text-align: center;
+    color: white; 
+    font-size: 32px; 
+    font-family: Inter; 
+    font-weight: 300; 
+    word-wrap: break-word";
+}
+.descripcion {
+    width: 1069px; 
+    left: 184px; 
+    top: 531px; 
+    position: absolute; 
+    color: white; 
+    font-size: 32px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+.img1 {
+    width: 269.77px; 
+    height: 234.07px; 
+    left: 804.23px; 
+    top: 0px; 
+    position: absolute; 
+    border-radius: 8px;
+}
+.img2 {
+    width: 245.70px; 
+    height: 234.07px; 
+    left: 519.27px; 
+    top: 0px; 
+    position: absolute; 
+    border-radius: 8px
+}
+.img3 {
+    width: 217.84px; 
+    height: 234.07px; 
+    left: 249.50px; 
+    top: 0px; 
+    position: absolute; 
+    border-radius: 8px
+}
+.img4 {
+    width: 197.58px; 
+    height: 240px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    border-radius: 8px;
+}
+.subtitulo {
+    width: 885px; 
+    height: 49px; 
+    left: 184px; 
+    top: 434px; 
+    position: absolute; 
+    color: white; 
+    font-size: 40px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.titulo {
+    width: 1076px; 
+    height: 44px; 
+    left: 182px; 
+    top: 64px; 
+    position: absolute; 
+    text-align: center; 
+    color: white; 
+    font-size: 48px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.contenedor2 {
+    width: 1440px; 
+    height: 710px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: rgba(110.27, 100.99, 109.35, 0.43);
+}
+.descripcion2 {
+    width: 1069px; 
+    left: 184px; 
+    top: 160px; 
+    position: absolute; 
+    color: white; 
+    font-size: 32px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+.contenedor2 {
+    background: rgba(110.27, 100.99, 109.35, 0.43);
+}
